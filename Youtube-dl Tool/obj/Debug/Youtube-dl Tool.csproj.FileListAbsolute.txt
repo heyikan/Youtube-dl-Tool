@@ -1,1 +1,9 @@
 C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\bin\Debug\Youtube-dl Tool.exe.config
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\bin\Debug\Youtube-dl Tool.exe
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\bin\Debug\Youtube-dl Tool.pdb
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube-dl Tool.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube_dl_Tool.Form1.resources
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube_dl_Tool.Properties.Resources.resources
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube-dl Tool.csproj.GenerateResource.Cache
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube-dl Tool.exe
+C:\Users\Hakan\Source\Repos\Youtube-dl Tool\Youtube-dl Tool\obj\Debug\Youtube-dl Tool.pdb
